@@ -7,7 +7,7 @@
 Overview
 ---
 
-In this project, I  deep neural networks and convolutional neural networks to clone driving behavior.The model will output a steering angle to an autonomous vehicle.
+In this project, I used deep neural networks and convolutional neural networks to clone driving behavior.The model will output a steering angle to an autonomous vehicle.
 
 Using a simulator I can steer a car around a track for data collection. Image data and steering angles used to train a neural network and then use this model to drive the car autonomously around the track.
 
